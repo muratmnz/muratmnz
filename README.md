@@ -18,8 +18,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<br>
-
 <p align="center">
 
 - **Languages**:
@@ -27,21 +25,13 @@
     ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JS%20-%25232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
     ![C#](https://img.shields.io/badge/CSharp%20-%23F7DF1E.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    
-
-<br> 
-<br>
-
+   
 <p style align="center">
 
 - **Mobile Development**:
     
     ![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=Kotlin&logoColor=red)
     ![React Native](https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-
-<br> 
-
-<br>
 
 <p align="center">
 
@@ -50,10 +40,6 @@
     ![Selenium](https://img.shields.io/badge/Selenium%20-%232370ED.svg?style=for-the-badge&logo=Selenium&logoColor=white)
     ![UFT](https://img.shields.io/badge/MFUFT%20-%25232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
     ![CypressIO](https://img.shields.io/badge/Cypressio%20-%2314354C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-
-<br> 
-
-<br>
 
 <p align="center">
 
@@ -68,8 +54,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-
 <br>
 
 
@@ -81,7 +65,6 @@
 </div>
 <br/>
 
-<br><br>
 
 <div align="center">
 
