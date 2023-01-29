@@ -1,13 +1,11 @@
 <br><br>
 <img align="right" src="https://media.giphy.com/media/wR4bJk4jF5Tl6/giphy.gif"  width="450" height="200" >
 
-### Hi there, I'm Murat  :four_leaf_clover:
+### Hi, I'm Murat  :four_leaf_clover:
 
-## Software Automation Developer | Android Developer
+### 🔭 I'm currently working on Sofware Automation Developer with Web and Mobile Applications.
 
-## 🔭 I'm currently working on Sofware Automation Developer with Web and Mobile Applications.
-
-## ⚡ Currently learning Kotlin Android Development. 
+### ⚡ Currently learning Kotlin Android Development. 
 
 
 <br><br>
