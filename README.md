@@ -3,7 +3,7 @@
 
 ### Hi, I'm Murat  :four_leaf_clover:
 
-### 🔭 I'm currently working on Sofware Automation Developer with Web and Mobile Applications.
+### 🔭 I'm currently working on Sofware Automation Developer for Web and Mobile Applications.
 
 ### ⚡ Currently learning Kotlin Android Development. 
 
