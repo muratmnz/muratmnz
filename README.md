@@ -1,5 +1,5 @@
 <br><br>
-<img align="right" src="https://media.giphy.com/media/wR4bJk4jF5Tl6/giphy.gif"  width="450" height="200" >
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="220" >
 
 ### Hi, I'm Murat  :four_leaf_clover:
 
