@@ -5,7 +5,7 @@
 
 ### 🔭 I'm currently working on Sofware Automation Developer for Web and Mobile Applications.
 
-### ⚡ Currently learning Kotlin Android Development. 
+### ⚡ Currently learning Swift iOS Development. 
 
 
 <br><br>
