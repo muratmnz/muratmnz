@@ -16,34 +16,21 @@
 
 <p align="center">
 
-- **Languages**:
+- **Tech Stacks**:
     
+    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=Kotlin&logoColor=red)
     ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JS%20-%25232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
     ![C#](https://img.shields.io/badge/CSharp%20-%23F7DF1E.svg?style=for-the-badge&logo=csharp&logoColor=white)
-   
-<p style align="center">
-
-- **Mobile Development**:
-    
-    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=Kotlin&logoColor=red)
     ![React Native](https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-
-<p align="center">
-
-- **Automation**:
-    
     ![Selenium](https://img.shields.io/badge/Selenium%20-%232370ED.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+    
     ![UFT](https://img.shields.io/badge/MFUFT%20-%25232370ED.svg?style=for-the-badge&logo=Microfocus&logoColor=white)
     ![CypressIO](https://img.shields.io/badge/Cypressio%20-%2314354C.svg?style=for-the-badge&logo=cypress&logoColor=white)
     ![POSTMAN](https://img.shields.io/badge/Cucumber%20-%23F7DF1E.svg?style=for-the-badge&logo=cucumber&logoColor=red)
     ![KARATE](https://img.shields.io/badge/karate%20-%25232370ED.svg?style=for-the-badge&logo=karate&logoColor=white)
-
-<p align="center">
-
-- **Other Technologies**:
-    
     ![HTML](https://img.shields.io/badge/HTML5%20-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white)
+    
     ![CSS](https://img.shields.io/badge/CSS%20-%25232370ED.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![SQL](https://img.shields.io/badge/Sql%20-%232370ED.svg?style=for-the-badge&logo=MySql&logoColor=white)
     ![GIT](https://img.shields.io/badge/Git%20-%2314354C.svg?style=for-the-badge&logo=git&logoColor=white)
