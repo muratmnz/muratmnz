@@ -5,7 +5,9 @@
 
 ### 🔭 I'm currently working on Sofware Automation Developer for Web and Mobile Applications.
 
-### ⚡ Currently learning Swift iOS Development. 
+### 👨‍💻 I'm interested in mobile application development. 
+
+### ⚡ I'm currently learning Swift iOS Development. 
 
 
 <br><br>
@@ -16,26 +18,107 @@
 
 <p align="center">
 
-- **Tech Stacks**:
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a> 
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=for-the-badge&logo=Kotlin&logoColor=red"
+      alt="Kotlin"/>
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Swift-E10098.svg?style=for-the-badge&logo=swift&logoColor=white"
+      alt="Swift"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript%20-6DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+ <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/react native-1572B6.svg?style=for-the-badge&logo=react&logoColor=white"
+      alt="reactnative"/>
+  </a>
+</p>
+
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+</p>
+
+<h3 align="center">Cloud & Hosting</h3>
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
+  </a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/bitbucket-00C7B7.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket"/>
+  </a>
+</p>
     
-    ![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=Kotlin&logoColor=red)
-    ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JS%20-%25232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-    ![C#](https://img.shields.io/badge/CSharp%20-%23F7DF1E.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![React Native](https://img.shields.io/badge/ReactNative%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-    ![Selenium](https://img.shields.io/badge/Selenium%20-%232370ED.svg?style=for-the-badge&logo=Selenium&logoColor=white)
+<h3 align="center">Automation & Testing</h3>
+<p align="center"> 
+  <a href="https://www.selenium.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/selenium-430098.svg?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="selenium" /> 
+  </a>
+  <a href="https://www.microfocus.com/en-us/home" target="_blank"> 
+    <img src="https://img.shields.io/badge/microfocus-43B02A.svg?style=for-the-badge&logo=microfocus&logoColor=white"
+      alt="MFUFT Mobile" /> 
+  </a>
+    <a href="https://www.cypress.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Cypressio%20-%2314354C.svg?style=for-the-badge&logo=cypress&logoColor=white"
+      alt="CypressIO" /> 
+  </a> 
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
+  </a> 
+</p>
     
-    ![UFT](https://img.shields.io/badge/MFUFT%20-%25232370ED.svg?style=for-the-badge&logo=Microfocus&logoColor=white)
-    ![CypressIO](https://img.shields.io/badge/Cypressio%20-%2314354C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-    ![POSTMAN](https://img.shields.io/badge/Cucumber%20-%23F7DF1E.svg?style=for-the-badge&logo=cucumber&logoColor=red)
-    ![KARATE](https://img.shields.io/badge/karate%20-%25232370ED.svg?style=for-the-badge&logo=karate&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML5%20-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white)
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-1572B6.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+</p>
     
-    ![CSS](https://img.shields.io/badge/CSS%20-%25232370ED.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![SQL](https://img.shields.io/badge/Sql%20-%232370ED.svg?style=for-the-badge&logo=MySql&logoColor=white)
-    ![GIT](https://img.shields.io/badge/Git%20-%2314354C.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![POSTMAN](https://img.shields.io/badge/Postman%20-%23F7DF1E.svg?style=for-the-badge&logo=postman&logoColor=red)
+<h3 align="center">Others & Tools</h3>
+<p align="center"> 
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+
+</p>
 
 <br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
