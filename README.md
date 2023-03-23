@@ -24,17 +24,13 @@
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a> 
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=for-the-badge&logo=Kotlin&logoColor=red"
-      alt="Kotlin"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Swift-E10098.svg?style=for-the-badge&logo=swift&logoColor=white"
-      alt="Swift"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript%20-6DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white"
       alt="javascript"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-8DD6F9.svg?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -44,12 +40,23 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+</p>
+
+<h3 align="center">Mobile Development</h3>
+<p align="center">
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?style=for-the-badge&logo=Kotlin&logoColor=red"
+      alt="Kotlin"/>
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Swift-E10098.svg?style=for-the-badge&logo=swift&logoColor=white"
+      alt="Swift"/>
+  </a>
  <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/react native-1572B6.svg?style=for-the-badge&logo=react&logoColor=white"
       alt="reactnative"/>
   </a>
 </p>
-
 
 <h3 align="center">Database</h3>
 <p align="center">
