@@ -97,6 +97,9 @@
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 
+  <a href="https://maven.apache.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/maven-181717.svg?style=for-the-badge&logo=maven&logoColor=white" alt="maven" /> 
+  </a> 
 </p>
     
 <h3 align="center">Version Control & CI/CD</h3>
@@ -123,6 +126,9 @@
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://img.shields.io/badge/confluence-8DD6F9.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
   </a>
 
 </p>
