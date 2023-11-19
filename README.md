@@ -3,11 +3,11 @@
 
 ### Hi, I'm Murat  :four_leaf_clover:
 
-### 🔭 I'm currently working on Sofware Automation Developer for Web and Mobile Applications.
+### 🔭 I'm currently working on Sofware Automation Specialist for Web and Mobile Applications.
 
 ### 👨‍💻 I'm interested in mobile application development. 
 
-### ⚡ I'm currently learning Swift iOS Development. 
+### ⚡ Also I'm currently learning Swift iOS Development. 
 
 
 <br><br>
@@ -99,7 +99,10 @@
   </a> 
   <a href="https://maven.apache.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/maven-181717.svg?style=for-the-badge&logo=maven&logoColor=white" alt="maven" /> 
-  </a> 
+  </a>
+  <a href="https://rest-assured.io/" target="_blank">
+    <img src="https://img.shields.io/badge/restassured-00C7B7.svg?style=for-the-badge&logo=restassured&logoColor=white" alt="restassured"/>
+  </a>
 </p>
     
 <h3 align="center">Version Control & CI/CD</h3>
@@ -129,6 +132,12 @@
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
     <img src="https://img.shields.io/badge/confluence-8DD6F9.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/jira-FFCA28.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/docker-181717.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
   </a>
 
 </p>
